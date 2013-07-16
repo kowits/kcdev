@@ -1,0 +1,1 @@
+(model.Person.methods.login = function(userName, password) {	// Add your code here;   var result = loginByPassword(userName, password, 60*60); // session is created in case of success   return result; // result is sent to the client}).scope = "public";

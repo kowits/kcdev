@@ -1,6 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<directory>
-	<group ID="01000000000000000000000000000000" name="Admin">
-	</group>
-</directory>
-
+﻿<?xml version="1.0" encoding="UTF-8"?><directory><group ID="01000000000000000000000000000000" name="Admin">	<include user="kowit" userID="648F53E3C81149C2887BF652EA7603BA"/>	<include user="kowit" ID="648F53E3C81149C2887BF652EA7603BA"/>	<include user="kowit" ID="648F53E3C81149C2887BF652EA7603BA"/></group><group ID="19959A9FFC0F478DAB328E94D1965317" name="User">	<include user="kowit2" userID="6191FFB30B23403389364187E31D48AA"/>	<include user="kowit2" ID="6191FFB30B23403389364187E31D48AA"/>	<include user="kowit2" ID="6191FFB30B23403389364187E31D48AA"/>	<include user="kowit2" ID="6191FFB30B23403389364187E31D48AA"/>	<include user="kowit2" ID="6191FFB30B23403389364187E31D48AA"/></group><group ID="41E85F7C5A0F4E50A916B706AC00629D" name="user2">	<include user="kowit3" userID="76D3E4284B4243AFBD295B983CFAD01B"/>	<include user="kowit3" ID="76D3E4284B4243AFBD295B983CFAD01B"/>	<include user="kowit3" ID="76D3E4284B4243AFBD295B983CFAD01B"/></group><user ID="648F53E3C81149C2887BF652EA7603BA" name="kowit" fullName="kowit subsai" password="5631543574ac77f6f313f48434695bbd"/><user ID="6191FFB30B23403389364187E31D48AA" name="kowit2" fullName="koeit2 subsai" password="d66d360c9f30558dbc4fe07d10c83100"/><user ID="76D3E4284B4243AFBD295B983CFAD01B" name="kowit3" fullName="kowit3 subsai" password="b4cb5cf62d099c3ba3e1e807d7729675"/></directory>
